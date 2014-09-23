@@ -1,0 +1,26 @@
+{
+  "name": "heroku-log-split",
+  "version": "0.0.0",
+  "description": "Splits heroku logs by app name",
+  "main": "index.js",
+  "bin": {
+    "heroku-log-split": "./index.js"
+  },
+  "dependencies": {
+    "split": "^0.3.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wraithan/heroku-log-split.git"
+  },
+  "author": "Wraithan <xwraithanx@gmail.com> (http://wraithan.net/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wraithan/heroku-log-split/issues"
+  },
+  "homepage": "https://github.com/wraithan/heroku-log-split"
+}
