@@ -1,6 +1,6 @@
 {
   "name": "heroku-log-split",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Splits heroku logs by app name",
   "main": "index.js",
   "bin": {
